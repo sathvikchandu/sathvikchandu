@@ -1,4 +1,4 @@
-<h1 align="center">Holla 👋, I'm Siva Sathvik Chandu Medasani</h1>
+<h1 align="center">Hola 👋, I'm Siva Sathvik Chandu Medasani</h1>
 <h3 align="center">A passionate ReactJS developer from India</h3>
 
 
